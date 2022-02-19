@@ -1,3 +1,6 @@
+# Other stuff
+.DS_Store
+
 # For PCBs designed using KiCad: http://www.kicad-pcb.org/
 # Format documentation: http://kicad-pcb.org/help/file-formats/
 
@@ -13,6 +16,7 @@ _autosave-*
 *-save.pro
 *-save.kicad_pcb
 fp-info-cache
+*-backups
 
 # Netlist files (exported from Eeschema)
 *.net
