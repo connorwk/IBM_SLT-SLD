@@ -349,7 +349,7 @@
     (property "Reference" "T1" (id 0) (at 92.71 127.6349 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "IBM_Transistor" (id 1) (at 92.71 130.1749 0)
+    (property "Value" "ACA" (id 1) (at 92.71 130.1749 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (id 2) (at 88.9 128.27 0)
@@ -369,7 +369,7 @@
     (property "Reference" "T3" (id 0) (at 168.91 127.6349 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "IBM_Transistor" (id 1) (at 168.91 130.1749 0)
+    (property "Value" "ACA" (id 1) (at 168.91 130.1749 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (id 2) (at 165.1 128.27 0)
@@ -418,7 +418,7 @@
     (property "Reference" "T2" (id 0) (at 92.71 73.0249 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "IBM_Transistor" (id 1) (at 92.71 75.5649 0)
+    (property "Value" "ACA" (id 1) (at 92.71 75.5649 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (id 2) (at 88.9 73.66 0)
@@ -438,7 +438,7 @@
     (property "Reference" "T4" (id 0) (at 168.91 73.0249 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "IBM_Transistor" (id 1) (at 168.91 75.5649 0)
+    (property "Value" "ACA" (id 1) (at 168.91 75.5649 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (id 2) (at 165.1 73.66 0)
@@ -458,16 +458,16 @@
 
   (symbol_instances
     (path "/2137906f-9d9a-4f2a-b4c3-18311f4a4bdf"
-      (reference "T1") (unit 1) (value "IBM_Transistor") (footprint "")
+      (reference "T1") (unit 1) (value "ACA") (footprint "")
     )
     (path "/c36f7147-bc6f-4cbe-8b56-617ae1aaead3"
-      (reference "T2") (unit 1) (value "IBM_Transistor") (footprint "")
+      (reference "T2") (unit 1) (value "ACA") (footprint "")
     )
     (path "/313d7939-b1f4-4f95-8fbf-38d2d1bd0a6a"
-      (reference "T3") (unit 1) (value "IBM_Transistor") (footprint "")
+      (reference "T3") (unit 1) (value "ACA") (footprint "")
     )
     (path "/d1e37067-05b9-4eaf-979b-bfe29351874a"
-      (reference "T4") (unit 1) (value "IBM_Transistor") (footprint "")
+      (reference "T4") (unit 1) (value "ACA") (footprint "")
     )
     (path "/75e072b9-86c1-407b-a1c4-16b7a7044004"
       (reference "U1") (unit 1) (value "12-Pin_SLx_Can") (footprint "IBM_SLT-SLD:12-Pin_SLx_Can")

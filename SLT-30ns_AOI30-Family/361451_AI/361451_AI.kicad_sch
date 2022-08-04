@@ -568,7 +568,7 @@
     (property "Reference" "T1" (id 0) (at 153.67 93.3449 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "IBM_Transistor" (id 1) (at 153.67 95.8849 0)
+    (property "Value" "AAA" (id 1) (at 153.67 95.8849 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (id 2) (at 149.86 93.98 0)
@@ -629,7 +629,7 @@
   (symbol (lib_id "Device:R_Small_US") (at 149.86 53.34 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 94dd523f-5529-4374-bb00-a68226b4e5f7)
-    (property "Reference" "R?" (id 0) (at 152.4 52.0699 0)
+    (property "Reference" "R2" (id 0) (at 152.4 52.0699 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "750Ω" (id 1) (at 152.4 54.6099 0)
@@ -717,14 +717,14 @@
     (path "/26c7a6dc-b677-49a0-89d1-9016662191f3"
       (reference "R1") (unit 1) (value "2K") (footprint "Resistor_SMD:R_0201_0603Metric")
     )
+    (path "/94dd523f-5529-4374-bb00-a68226b4e5f7"
+      (reference "R2") (unit 1) (value "750Ω") (footprint "Resistor_SMD:R_0201_0603Metric")
+    )
     (path "/e3b34507-97c6-4732-8351-5f7d2bda9963"
       (reference "R3") (unit 1) (value "3.6K") (footprint "Resistor_SMD:R_0201_0603Metric")
     )
-    (path "/94dd523f-5529-4374-bb00-a68226b4e5f7"
-      (reference "R?") (unit 1) (value "750Ω") (footprint "Resistor_SMD:R_0201_0603Metric")
-    )
     (path "/5c986000-fc83-4495-a50f-9f4b94e485bc"
-      (reference "T1") (unit 1) (value "IBM_Transistor") (footprint "")
+      (reference "T1") (unit 1) (value "AAA") (footprint "")
     )
     (path "/75e072b9-86c1-407b-a1c4-16b7a7044004"
       (reference "U1") (unit 1) (value "12-Pin_SLx_Can") (footprint "IBM_SLT-SLD:12-Pin_SLx_Can")

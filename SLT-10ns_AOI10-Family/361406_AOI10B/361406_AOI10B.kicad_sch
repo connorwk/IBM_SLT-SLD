@@ -859,7 +859,7 @@
     (property "Reference" "T2" (id 0) (at 156.21 114.9349 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "IBM_Transistor" (id 1) (at 156.21 117.4749 0)
+    (property "Value" "BA" (id 1) (at 156.21 117.4749 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (id 2) (at 152.4 115.57 0)
@@ -1033,7 +1033,7 @@
     (property "Reference" "T1" (id 0) (at 124.46 93.3449 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "IBM_Transistor" (id 1) (at 124.46 95.8849 0)
+    (property "Value" "BB" (id 1) (at 124.46 95.8849 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (id 2) (at 120.65 93.98 0)
@@ -1227,10 +1227,10 @@
       (reference "R5") (unit 1) (value "140Ω") (footprint "")
     )
     (path "/a58b425b-6fc3-4a86-ae11-a84decf83c5a"
-      (reference "T1") (unit 1) (value "IBM_Transistor") (footprint "")
+      (reference "T1") (unit 1) (value "BB") (footprint "")
     )
     (path "/2873e490-c9bf-4c89-897a-2c4ba6a0f218"
-      (reference "T2") (unit 1) (value "IBM_Transistor") (footprint "")
+      (reference "T2") (unit 1) (value "BA") (footprint "")
     )
     (path "/98cf94aa-9a14-4efb-965e-894e721f61fd"
       (reference "U?") (unit 1) (value "16-Pin_SLx_Can") (footprint "")

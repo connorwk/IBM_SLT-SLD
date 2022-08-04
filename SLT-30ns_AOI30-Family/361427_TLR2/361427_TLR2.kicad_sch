@@ -561,7 +561,7 @@
     (property "Reference" "T3" (id 0) (at 161.29 116.2049 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "IBM_Transistor" (id 1) (at 161.29 118.7449 0)
+    (property "Value" "ABA" (id 1) (at 161.29 118.7449 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (id 2) (at 157.48 116.84 0)
@@ -579,7 +579,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 3aa6e313-7972-4b5e-a4c8-3414c36a4b92)
     (property "Reference" "T2" (id 0) (at 99.695 87.63 90))
-    (property "Value" "IBM_Transistor" (id 1) (at 99.695 90.17 90))
+    (property "Value" "ABA" (id 1) (at 99.695 90.17 90))
     (property "Footprint" "" (id 2) (at 100.33 82.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -626,7 +626,7 @@
     (property "Reference" "T1" (id 0) (at 135.89 81.9149 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "IBM_Transistor" (id 1) (at 135.89 84.4549 0)
+    (property "Value" "CC" (id 1) (at 135.89 84.4549 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (id 2) (at 132.08 82.55 0)
@@ -699,13 +699,13 @@
       (reference "R4") (unit 1) (value "2.3K") (footprint "Resistor_SMD:R_0201_0603Metric")
     )
     (path "/7b5b5180-1101-4ee8-816f-2ee7fdf5519c"
-      (reference "T1") (unit 1) (value "IBM_Transistor") (footprint "")
+      (reference "T1") (unit 1) (value "CC") (footprint "")
     )
     (path "/3aa6e313-7972-4b5e-a4c8-3414c36a4b92"
-      (reference "T2") (unit 1) (value "IBM_Transistor") (footprint "")
+      (reference "T2") (unit 1) (value "ABA") (footprint "")
     )
     (path "/328beb90-f791-4a9b-9895-c45ba1d55668"
-      (reference "T3") (unit 1) (value "IBM_Transistor") (footprint "")
+      (reference "T3") (unit 1) (value "ABA") (footprint "")
     )
     (path "/75e072b9-86c1-407b-a1c4-16b7a7044004"
       (reference "U1") (unit 1) (value "12-Pin_SLx_Can") (footprint "IBM_SLT-SLD:12-Pin_SLx_Can")
