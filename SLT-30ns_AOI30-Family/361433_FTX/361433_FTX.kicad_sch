@@ -241,6 +241,10 @@
     (uuid f61a1a6d-eaa8-4bc2-bccd-5fad95d86ed5)
   )
 
+  (text "361433" (at 119.38 109.22 0)
+    (effects (font (size 2.54 2.54)) (justify left bottom))
+    (uuid 0631e5d6-1540-413e-b2c3-44133006a963)
+  )
   (text "All Transistors AWX" (at 118.11 101.6 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid bab3431c-ede6-417b-8033-763748a11a9f)

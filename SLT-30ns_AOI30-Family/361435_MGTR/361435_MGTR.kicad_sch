@@ -738,10 +738,38 @@
     (uuid f69bb7ef-87c2-4c1d-948f-ca415bf5e6a7)
   )
 
+  (text "~{Out}" (at 72.39 76.2 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 44a8a96b-3053-4222-9241-aa484f5ebe13)
+  )
+  (text "Out" (at 140.97 76.2 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 56d5d2e4-dbd9-4665-9c2f-4cd76f3e3bd2)
+  )
+  (text "Reset" (at 129.54 124.46 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 7fc608db-1df7-438c-8478-60ec240f9b4d)
+  )
   (text "All components outside of broken\nlines are external to module."
     (at 66.04 30.48 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 86005aac-2804-450b-a99c-b923de185862)
+  )
+<<<<<<< HEAD
+<<<<<<< HEAD
+  (text "361435" (at 101.6 139.7 0)
+    (effects (font (size 2.54 2.54)) (justify left bottom))
+    (uuid 9abd7cf6-f475-4baa-a328-bdd98401b63b)
+=======
+  (text "Set" (at 81.28 124.46 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid fda9dddb-894c-4a9c-afd9-e6bb2b3fb708)
+>>>>>>> 8dc5fa7da847331774049aecaeb97e331830eb48
+=======
+  (text "Set" (at 81.28 124.46 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid fda9dddb-894c-4a9c-afd9-e6bb2b3fb708)
+>>>>>>> 8dc5fa7da847331774049aecaeb97e331830eb48
   )
 
   (label "8" (at 146.05 93.98 0)

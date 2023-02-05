@@ -403,6 +403,11 @@
     (uuid e5d1b8c4-a648-470b-bbd7-36696f0cc79e)
   )
 
+  (text "361473" (at 119.38 76.2 0)
+    (effects (font (size 2.54 2.54)) (justify left bottom))
+    (uuid 15332e8a-72b2-4e76-84c7-2a903a946cf3)
+  )
+
   (label "8" (at 170.18 63.5 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 0052f8b2-1d96-497a-b45a-a79286944aa3)

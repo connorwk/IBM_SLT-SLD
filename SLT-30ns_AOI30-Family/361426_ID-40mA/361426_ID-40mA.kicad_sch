@@ -340,6 +340,10 @@
     (uuid fcaf4a9e-aa30-46c4-b201-0ddac2343e1a)
   )
 
+  (text "361426" (at 119.38 57.15 0)
+    (effects (font (size 2.54 2.54)) (justify left bottom))
+    (uuid 7249b70f-e692-49f4-a758-0c9f0de089a4)
+  )
   (text "Transistors CB" (at 123.19 45.72 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid d8200a86-aa75-47a3-ad2a-7f4c9c999a6f)

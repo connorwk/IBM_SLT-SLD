@@ -338,6 +338,10 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 63dc6b27-06da-47ee-af23-e5d647cb795a)
   )
+  (text "361455" (at 119.38 54.61 0)
+    (effects (font (size 2.54 2.54)) (justify left bottom))
+    (uuid 9ae910aa-f6ec-4c5f-a73d-410a31741ddc)
+  )
 
   (label "8" (at 130.81 106.68 180)
     (effects (font (size 1.27 1.27)) (justify right bottom))

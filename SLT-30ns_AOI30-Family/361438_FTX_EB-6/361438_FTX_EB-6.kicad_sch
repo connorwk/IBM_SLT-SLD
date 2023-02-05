@@ -241,6 +241,10 @@
     (uuid f61a1a6d-eaa8-4bc2-bccd-5fad95d86ed5)
   )
 
+  (text "361438" (at 119.38 107.95 0)
+    (effects (font (size 2.54 2.54)) (justify left bottom))
+    (uuid 242c0801-f1f0-4d87-a6e1-36dadec41256)
+  )
   (text "All Transistors ACC" (at 118.11 101.6 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid bab3431c-ede6-417b-8033-763748a11a9f)

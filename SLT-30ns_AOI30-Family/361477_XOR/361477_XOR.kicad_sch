@@ -394,6 +394,11 @@
     (uuid f40a3676-b618-4ca8-81c5-34f915a83dc8)
   )
 
+  (text "361477" (at 109.22 91.44 0)
+    (effects (font (size 2.54 2.54)) (justify left bottom))
+    (uuid 5050b391-ea94-4ad7-9ae8-02fd562c81f4)
+  )
+
   (label "8" (at 148.59 80.645 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 0052f8b2-1d96-497a-b45a-a79286944aa3)

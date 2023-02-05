@@ -387,6 +387,10 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 99ec680b-2699-4632-a97b-c28b635c126c)
   )
+  (text "361427" (at 107.95 101.6 0)
+    (effects (font (size 2.54 2.54)) (justify left bottom))
+    (uuid f8fd4e1d-3500-4cb4-810c-489174eb27da)
+  )
 
   (label "9" (at 248.92 137.16 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
