@@ -755,21 +755,9 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 86005aac-2804-450b-a99c-b923de185862)
   )
-<<<<<<< HEAD
-<<<<<<< HEAD
-  (text "361435" (at 101.6 139.7 0)
-    (effects (font (size 2.54 2.54)) (justify left bottom))
-    (uuid 9abd7cf6-f475-4baa-a328-bdd98401b63b)
-=======
   (text "Set" (at 81.28 124.46 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid fda9dddb-894c-4a9c-afd9-e6bb2b3fb708)
->>>>>>> 8dc5fa7da847331774049aecaeb97e331830eb48
-=======
-  (text "Set" (at 81.28 124.46 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid fda9dddb-894c-4a9c-afd9-e6bb2b3fb708)
->>>>>>> 8dc5fa7da847331774049aecaeb97e331830eb48
   )
 
   (label "8" (at 146.05 93.98 0)
