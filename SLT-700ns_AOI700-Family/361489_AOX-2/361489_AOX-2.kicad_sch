@@ -320,6 +320,10 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 63dc6b27-06da-47ee-af23-e5d647cb795a)
   )
+  (text "361489" (at 97.79 99.06 0)
+    (effects (font (size 2.54 2.54)) (justify left bottom))
+    (uuid 8b5bfc8f-8e84-4ec7-81b3-51079a376b84)
+  )
 
   (label "8" (at 73.66 104.14 180)
     (effects (font (size 1.27 1.27)) (justify right bottom))

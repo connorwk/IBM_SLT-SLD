@@ -350,6 +350,10 @@
     (uuid f0774ea8-544e-427a-98b2-ca41724c19fe)
   )
 
+  (text "361495" (at 111.76 66.04 0)
+    (effects (font (size 2.54 2.54)) (justify left bottom))
+    (uuid 22e93be8-fd3a-4120-8a92-db1aad182c41)
+  )
   (text "All Diodes \"C\"" (at 111.76 133.35 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 63dc6b27-06da-47ee-af23-e5d647cb795a)
